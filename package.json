@@ -1,0 +1,19 @@
+{
+  "name": "toyyibpay-js-sdk",
+  "version": "1.0.0",
+  "description": "ToyyibPay Javascript SDK",
+  "main": "dist/index.js",
+  "scripts": {
+    "pretty": "prettier --single-quote --trailing-comma es5 --parser typescript --write 'src/**/*.ts'"
+  },
+  "author": "Akim95 <m.akmalhakim95@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "qs": "^6.9.0"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.5.3",
+    "prettier": "1.18.2"
+  }
+}
