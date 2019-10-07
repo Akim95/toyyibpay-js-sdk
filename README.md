@@ -24,6 +24,7 @@ toyyibpay.createCategory({
 
 * catname: string
 * catdescription: string
+
 ```createCategory({ category params })```
 
 * categoryCode: string
@@ -41,10 +42,12 @@ toyyibpay.createCategory({
 * billSplitPayment: number
 * billSplitPaymentArgs: any
 * billPaymentChannel?: number
+
 ```createBill({ bill params })```
 
 * billCode: string
 * billExternalReferenceNo: string
+
 ```getBillTransactions(transaction params)```
 
 ## License
