@@ -1,12 +1,17 @@
 {
   "name": "toyyibpay-js-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ToyyibPay Javascript SDK",
   "main": "dist/index.js",
   "scripts": {
     "pretty": "prettier --single-quote --trailing-comma es5 --parser typescript --write 'src/**/*.ts'"
   },
-  "author": "Akim95 <m.akmalhakim95@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akim95/toyyibpay-js-sdk.git"
+  },
+  "homepage": "https://github.com/Akim95/toyyibpay-js-sdk.git",
+  "author": "Akim95 <m.akmalhakim95@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
