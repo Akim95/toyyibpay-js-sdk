@@ -20,6 +20,13 @@ toyyibpay.createCategory({
 
 ## Documentation
 
+### Constructor
+
+* API URL: string
+* secret key: string
+
+```new ToyyibPay('api uri', 'secret key');```
+
 ### Methods
 
 * catname: string
