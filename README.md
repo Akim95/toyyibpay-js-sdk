@@ -58,4 +58,4 @@ toyyibpay.createCategory({
 ```getBillTransactions(transaction params)```
 
 ## License
-Licensed under [MIT](LICENSE)
+Licensed under [MIT](LICENSE.md)
